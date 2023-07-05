@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>God Fearing Bredren</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Add your CSS file if you have one -->
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#donate">Donate</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h1>Welcome to God Fearing Bredren</h1>
+            <p>
+                Add your organization's mission and a brief description of your goals and activities here.
+            </p>
+        </section>
+
+        <section id="projects">
+            <h2>Our Projects</h2>
+            <ul>
+                <li>Project 1: Description of Project 1</li>
+                <li>Project 2: Description of Project 2</li>
+                <li>Project 3: Description of Project 3</li>
+            </ul>
+        </section>
+
+        <section id="donate">
+            <h2>Donate</h2>
+            <p>
+                Add information about how visitors can donate to support your organization's cause and include any donation methods or platforms.
+            </p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>
+                Add contact information here, such as an email address, phone number, or physical address, for visitors to get in touch with your organization.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 God Fearing Bredren. All rights reserved.</p>
+    </footer>
+</body>
+</html>
